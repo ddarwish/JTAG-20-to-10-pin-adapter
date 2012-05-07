@@ -5,7 +5,7 @@ Simple 20 to 10 pin JTAG adapter
 
 Author
 ------
-Designed by Denis Darwish
+Designed by Denis Darwish <br />
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=RU&item_name=JTAG%2020%20to%2010%20pin%20adapter&item_number=JT%2dA%2d2010&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted'>
 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate via PayPal" title="Donate via PayPal" border="0" />
 </a>
