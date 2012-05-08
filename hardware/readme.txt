@@ -1,0 +1,1 @@
+JTAG_AD.DSN - is a OrCAD Capture file
